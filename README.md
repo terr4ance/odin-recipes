@@ -1,0 +1,3 @@
+This project is part of the Foundations course in The Odin Project. The aim is to use HTML to write a very basic website with a home (index) page that links to a number of recipes. 
+
+The idea is to develop my skills writing basic HTML, and give me the opportunity to immerse myself in the development environment, not only becoming more comfortable with the text editor (VS Code), but also with the Terminal and Git. 
